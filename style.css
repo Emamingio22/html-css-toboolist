@@ -1,0 +1,45 @@
+
+header {
+    padding: 0px;
+}
+
+
+
+
+
+body {
+    background-color: rgb(243, 242, 242);
+    
+    
+}
+
+
+
+img {
+    background-color: white;
+}
+
+
+.at-ad {
+    display: inline;
+    border: 1px solid rgb(51, 122, 255);
+    border-radius: 10%;
+    background-color: rgb(51, 122, 255);
+    font-size: 14px;
+    
+}
+
+.at-as {
+    display: inline;
+    border: 1px solid gray;
+    border-radius: 10%;
+}
+
+
+.add-task-text {
+    border: 1px solid white;
+    background-color: white;
+    margin: 80px;
+    padding: 10px 50px 10px 30px;
+    border-radius: 10px;
+}

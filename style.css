@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 header {
     border: 1px solid white;
     background-color: white;
@@ -21,7 +27,7 @@ body {
 .at-ad {
     display: inline;
     border: 1px solid rgb(51, 122, 255);
-    border-radius: 10%;
+    border-radius: 15%;
     background-color: rgb(51, 122, 255);
     font-size: 14px;
     
@@ -30,7 +36,7 @@ body {
 .at-as {
     display: inline;
     border: 1px solid gray;
-    border-radius: 10%;
+    border-radius: 15%;
 }
 
 
@@ -54,5 +60,60 @@ body {
 }
 
 
+.strong {
+    font-size: 20px;
+    font-weight: bold;
+}
 
 
+.blue {
+    border: 1px solid rgb(81, 141, 230);
+    border-radius: 25%;
+    background-color: rgb(81, 141, 230);
+    color: white;
+    font-size: 12px;
+}
+
+
+.violet {
+    border: 1px solid rgb(107, 0, 121);
+    border-radius: 25%;
+    background-color: rgb(107, 0, 121);
+    color: white;
+    font-size: 12px;
+}
+
+.green {
+    border: 1px solid rgb(59, 248, 144);
+    border-radius: 25%;
+    background-color: rgb(59, 248, 144);
+    color: white;
+    font-size: 12px;
+}
+
+
+.orange {
+    border: 1px solid orange;
+    border-radius: 25%;
+    background-color: orange;
+    color: white;
+    font-size: 12px;
+}
+
+
+.pink {
+    border: 1px solid rgb(245, 86, 210);
+    border-radius: 25%;
+    background-color: rgb(245, 86, 210);
+    color: white;
+    font-size: 12px;
+}
+
+
+.olive {
+    border: 1px solid rgb(90, 146, 0);
+    border-radius: 25%;
+    background-color: rgb(90, 146, 0);
+    color: white;
+    font-size: 12px;
+}
